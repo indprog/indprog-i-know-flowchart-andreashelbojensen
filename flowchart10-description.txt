@@ -1,0 +1,4 @@
+This flowchart descries the decision making process of whether to relax, make homework or go to sleep.
+
+You arrive at home and need to figure out if you need to study or you can relax, while keeping in mind the time for sleep in order to uphold your bedtime. 
+Input time, hw_done and bedtime is used to create a loop that firstly checks if homework has been completed then whether it is bedtime or you can relax until the time for bed comes.
